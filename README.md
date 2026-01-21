@@ -3,7 +3,7 @@
 
 ## Notebooks
 
-* **`ml.ipynb` & `TabNet_SW.ipynb**`: Machine learning models for ranking and postseason prediction,TabNet, Time Series
+* **`ml.ipynb`** & **`TabNet_SW.ipynb`**: Machine learning models for ranking and postseason prediction,TabNet, Time Series
 * **`Rank_process.ipynb`**: Logic for rank processing and data transformation
 * **`test.ipynb`**: data extracting from kbodata library 
 ## 2. Core Datasets
